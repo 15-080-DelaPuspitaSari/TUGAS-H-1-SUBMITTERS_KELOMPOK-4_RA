@@ -5,3 +5,7 @@
 - Afifa Aulia	123140073
 - Ribka Hana Josephine Situmorang	123140103
 - M. Gymnastiar Syahputra	123140135
+
+## Judul Tugas Besar : "Mealify: Aplikasi Mobile sebagai Asisten Nutrisi Personal Berbasis Anggaran untuk Mahasiswa"
+
+## Link Gdocs Proposal Tugas Besar Desain Interaksi (UTS) :  https://docs.google.com/document/d/1U8tKWc7slJFlWiX2XauXeA8Q1ernGj46JipFxHynsPc/edit?usp=sharing
