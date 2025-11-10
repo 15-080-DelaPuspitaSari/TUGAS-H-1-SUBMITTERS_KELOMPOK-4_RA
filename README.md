@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/505a0160-bcbe-44e9-9f41-4820f1409a0e" /># TUGAS H-1 SUBMITTERS_KELOMPOK 4_RA
+ TUGAS H-1 SUBMITTERS_KELOMPOK 4_RA
 ## Anggota Kelompok TUGAS H-1 SUBMITTERS:
 - Hanifah Hasanah	123140082
 - Dela Puspita Sari	123140080
